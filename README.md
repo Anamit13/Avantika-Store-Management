@@ -11,4 +11,21 @@ Objectives
 3.	To make some benefit to the students who bought the product and now are of no use.
 
 
+Functional Requirement
+1.	The system shall decrease the time taken for entry
+2.	The system shall have minimum fields for entry.
+3.	The system shall have less buffering time.
+4.	The system shall store the data on submit in the database.
+5.	The fields shall not be time taking.	6.	
+7.	The system shall send some type of email to promote reusing of products
+8.	The system shall sell and buy the reused products
+9.	The system shall give the product on loan to other users for a specific time.
+10.	The system shall notify store manager if the time limit exceeds.
+11.	The system shall generate a unique id for every reusable product.
+
+
+	
+
+
+
 
